@@ -1,5 +1,4 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Thank+you+👋;I+am+John+Boris;Web+Developer;Web+Designer;)](https://git.io/typing-svg)
 
 ## About Me 👤
 
